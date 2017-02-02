@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonApplication", "PersonApplication\PersonApplication.csproj", "{5E08CEED-4F0D-4F89-84CB-8DCBEF58F546}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava_1", "Tehtava_1\Tehtava_1.csproj", "{736A3168-6A36-40F5-987A-032BC6F881E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava_2", "Tehtava_2\Tehtava_2.csproj", "{2517E949-0FDB-4A97-B027-2250F349242C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5E08CEED-4F0D-4F89-84CB-8DCBEF58F546}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E08CEED-4F0D-4F89-84CB-8DCBEF58F546}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E08CEED-4F0D-4F89-84CB-8DCBEF58F546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736A3168-6A36-40F5-987A-032BC6F881E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736A3168-6A36-40F5-987A-032BC6F881E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736A3168-6A36-40F5-987A-032BC6F881E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736A3168-6A36-40F5-987A-032BC6F881E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2517E949-0FDB-4A97-B027-2250F349242C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2517E949-0FDB-4A97-B027-2250F349242C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2517E949-0FDB-4A97-B027-2250F349242C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2517E949-0FDB-4A97-B027-2250F349242C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
