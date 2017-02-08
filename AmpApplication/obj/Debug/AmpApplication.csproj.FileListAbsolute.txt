@@ -1,0 +1,6 @@
+E:\Olioohjelmointi\Demo4-master\AmpApplication\bin\Debug\AmpApplication.exe.config
+E:\Olioohjelmointi\Demo4-master\AmpApplication\bin\Debug\AmpApplication.exe
+E:\Olioohjelmointi\Demo4-master\AmpApplication\bin\Debug\AmpApplication.pdb
+E:\Olioohjelmointi\Demo4-master\AmpApplication\obj\Debug\AmpApplication.csprojResolveAssemblyReference.cache
+E:\Olioohjelmointi\Demo4-master\AmpApplication\obj\Debug\AmpApplication.exe
+E:\Olioohjelmointi\Demo4-master\AmpApplication\obj\Debug\AmpApplication.pdb
